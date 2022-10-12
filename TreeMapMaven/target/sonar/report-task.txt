@@ -1,0 +1,6 @@
+projectKey=com.accenture.tree:TreeMapMaven
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.tree:TreeMapMaven
+ceTaskId=AYPLxpqlw471m-1q9f7B
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPLxpqlw471m-1q9f7B
